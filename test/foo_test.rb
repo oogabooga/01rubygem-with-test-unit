@@ -6,6 +6,6 @@ class FooTest < Test::Unit::TestCase
   end
 
   def test_fails
-    assert false
+    #assert false
   end
 end
